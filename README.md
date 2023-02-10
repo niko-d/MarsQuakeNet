@@ -1,6 +1,9 @@
 # MarsQuakeNet
-### Package to train and apply MarsQuakeNet (MQNet), submitted to JGR Planets (2022JE007503)
-##### "MarsQuakeNet: A More Complete Marsquake Catalogue Obtained by Deep Learning Techniques" [doi.org/10.5281/zenodo.7157843](https://doi.org/10.5281/zenodo.7157843)
+### Package to train and use MarsQuakeNet (MQNet), JGR Planets (2022JE007503)
+##### "MarsQuakeNet: A More Complete Marsquake Catalogue Obtained by Deep Learning Techniques"
+##### Paper: [https://doi.org/10.1029/2022JE007503](https://doi.org/10.5281/zenodo.7157843)
+##### Supplemental Material: [doi.org/10.5281/zenodo.7157843](https://doi.org/10.5281/zenodo.7157843)
+ 
 
 ![Image](/Data/Output/MethodOverview.jpg)
 
